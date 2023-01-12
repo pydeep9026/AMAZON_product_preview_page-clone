@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
+
+*{
+  box-sizing: border-box;
+}
+
+.navbar{
+  background-color: #282c34;
+  padding: 24px 48px 12px;
+  text-align: center;
+  width: 100%;
+}
+
+.navbar img{
+  width: 100px;
+}
+
+.container{
+  padding: 4% 12%;
+  margin-top: 32px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+ }
