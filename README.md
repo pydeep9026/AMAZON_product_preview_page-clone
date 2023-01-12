@@ -4,4 +4,9 @@ this is a little bit of react project i have tried . however i could not add the
 
 original link: https://www.amazon.in/Noise-ColorFit-Bluetooth-Fully-Functional-Brightness/dp/B09ZQLGRW3/ref=sr_1_1_sspa?crid=PSXBWMM2DS7P&keywords=amazon%2Bin%2Bsmartwatch%2Bsamsung&qid=1673273820&sprefix=amazon%2Bin%2Bsmartwatch%2Bsamsung%2Caps%2C260&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
 
-react_first
+
+
+
+
+
+![react_first](https://user-images.githubusercontent.com/91087103/211953754-8a3c205e-fc6a-4c19-b8ea-ba42d2c3ec44.png)
