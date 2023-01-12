@@ -2,7 +2,7 @@
 this is a little bit of react project i have tried . 
 however i could not add the interactivity and onclick functionality to it 
 still it took a lot of time to learn to devide it into seperate components for preview,details and all.
-i may add the functionaly and more features to it later.
+i may add the functionality and more features to it later.
 
 
 
